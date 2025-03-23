@@ -87,7 +87,7 @@ def main():
     ted_dir = args.dir
     all_files = os.listdir(ted_dir)
     
-    # Find all CN and EN file pairs
+    # Find all CN and EN file pairs.
     cn_files = sorted([os.path.join(ted_dir, f) for f in all_files if f.endswith('CN.txt')])
     en_files = sorted([os.path.join(ted_dir, f) for f in all_files if f.endswith('EN.txt')])
     
