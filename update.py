@@ -6,6 +6,7 @@ import os
 # How to run this script on terminal:
 # python update.py "Ted_Talk/ted_talk_cn.txt" "Ted_Talk/ted_talk_en.txt"
 # Ex. python3 update.py "Ted_Talk/Elon Musk_ The future we're building -- and boring _ TED - CN.txt" "Ted_Talk/Elon Musk_ The future we're building -- and boring _ TED - EN.txt"
+# Testing...
 # The script will output the following files:
 # - ted_talk_cn_newfix.txt (flattened and cleaned Chinese transcript)
 # - ted_talk_en_newfix.txt  (flattened and cleaned English transcript)
