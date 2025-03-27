@@ -2,6 +2,12 @@ import re
 import argparse
 from ollama import chat  # 使用 ollama 来调用本地 LLM
 
+"""
+先運行
+python3 update.py "Ted_Talk/Elon Musk_ The future we're building -- and boring _ TED - CN.txt" "Ted_Talk/Elon Musk_ The future we're building -- and boring _ TED - EN.txt"   
+後運行翻譯腳本
+python3 ollama_check.py "Correct_tran/Elon Musk_ The future we're building -- and boring _ TED - EN_updated.txt" "Correct_tran/Elon Musk_ The future we're building -- and boring _ TED - CN_newfix.txt"
+"""
 def extract_timestamp_and_content(line):
     """
     从字幕行中提取时间码和后面的文本。

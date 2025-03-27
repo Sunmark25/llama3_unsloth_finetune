@@ -2,18 +2,6 @@ import argparse
 import re
 import os
 
-
-# How to run this script on terminal:
-# python update.py "Ted_Talk/ted_talk_cn.txt" "Ted_Talk/ted_talk_en.txt"
-# Ex. python3 update.py "Ted_Talk/Elon Musk_ The future we're building -- and boring _ TED - CN.txt" "Ted_Talk/Elon Musk_ The future we're building -- and boring _ TED - EN.txt"
-# Testing...
-# The script will output the following files:
-# - ted_talk_cn_newfix.txt (flattened and cleaned Chinese transcript)
-# - ted_talk_en_newfix.txt  (flattened and cleaned English transcript)
-# - ted_talk_en_updated.txt (English transcript with updated timestamps)
-# - ted_talk_en_update_log.txt  (Log file detailing the changes made to the English transcript)
-
-
 # Regex pattern for a timestamp at the start of a line (format: MM:SS)
 timestamp_pattern = re.compile(r'^(\d{2}:\d{2})')
 
@@ -129,13 +117,20 @@ def main():
     base_cn = os.path.splitext(os.path.basename(args.chinese_file))[0]
     base_en = os.path.splitext(os.path.basename(args.english_file))[0]
     
-    new_fix_cn_file = f"{base_cn}_newfix.txt"
-    new_fix_en_file = f"{base_en}_newfix.txt"
-    updated_en_file = f"{base_en}_updated.txt"
-    update_log_file = f"{base_en}_update_log.txt"
+    # Create the "Correct_tran" folder for two of the output files.
+    correct_folder = "Correct_tran"
+    if not os.path.exists(correct_folder):
+        os.makedirs(correct_folder)
     
-    # Write new fixed (flattened and cleaned) files.
+    # Output file paths:
+    new_fix_cn_file = os.path.join(correct_folder, f"{base_cn}_newfix.txt")
+    new_fix_en_file = f"{base_en}_newfix.txt"  # remains in current directory.
+    updated_en_file = os.path.join(correct_folder, f"{base_en}_updated.txt")
+    update_log_file = f"{base_en}_update_log.txt"  # remains in current directory.
+    
+    # Write new fixed (flattened and cleaned) Chinese transcript into Correct_tran folder.
     write_flat_file(cn_segments, new_fix_cn_file)
+    # Write new fixed (flattened and cleaned) English transcript in current directory.
     write_flat_file(en_segments, new_fix_en_file)
     
     print(f"New fixed Chinese file written to: {new_fix_cn_file}")
@@ -144,11 +139,11 @@ def main():
     # Update English timestamps based on Chinese segments.
     updated_en_segments, update_log = update_english_timestamps(cn_segments, en_segments)
     
-    # Write updated English transcript.
+    # Write updated English transcript into Correct_tran folder.
     write_flat_file(updated_en_segments, updated_en_file)
     print(f"Updated English transcript written to: {updated_en_file}")
     
-    # Write update log.
+    # Write update log in current directory.
     with open(update_log_file, 'w', encoding='utf-8') as f:
         for log_entry in update_log:
             f.write(log_entry + "\n")
