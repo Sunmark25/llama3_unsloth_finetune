@@ -84,8 +84,7 @@
 04:31 and the tunneling cost scales with the cross-sectional area.
 04:33 So that's roughly a half-order of magnitude improvement right there.
 04:37 Then tunneling machines currently tunnel for half the time, then they stop,
-04:42 and then the rest of the time is putting in reinforcements
-04:45 for the tunnel wall.
+04:42 and then the rest of the time is putting in reinforcements for the tunnel wall.
 04:46 So if you design the machine instead
 04:48 to do continuous tunneling and reinforcing,
 04:51 that will give you a factor of two improvement.
