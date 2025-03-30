@@ -5,71 +5,73 @@ import glob
 from pathlib import Path
 
 def parse_transcript(file_path):
-    """Parse transcript file with timestamps, return a list of paragraphs"""
+    """Parse text file with timestamps, return a list of (timestamp, text) pairs"""
     with open(file_path, 'r', encoding='utf-8') as f:
         content = f.read()
     
-    # Use regular expressions to match timestamps and text
-    # Format example: "00:25 Good morning, how are you?"
+    # Directly match timestamps and corresponding text, without trying to merge into paragraphs
     segments = re.findall(r'(\d+:\d+)\s+(.*?)(?=\n\d+:\d+|\n\n|\Z)', content, re.DOTALL)
     
-    # Process matching results into paragraphs
-    paragraphs = []
-    current_paragraph = ""
-    
+    # Process matching results, return a list of (timestamp, cleaned text) tuples
+    result = []
     for timestamp, text in segments:
         text = text.strip()
-        if text:
-            if current_paragraph:
-                current_paragraph += " " + text
-            else:
-                current_paragraph = text
-            
-            # If the text ends with a period, question mark, or exclamation mark, consider it the end of a paragraph
-            if re.search(r'[.?!。？！]\s*$', text):
-                paragraphs.append(current_paragraph)
-                current_paragraph = ""
+        if text:  # Only include non-empty text
+            result.append((timestamp, text))
     
-    # Add the last paragraph (if any)
-    if current_paragraph:
-        paragraphs.append(current_paragraph)
-    
-    return paragraphs
+    return result
 
 def create_alpaca_data(cn_file, en_file, translation_direction="en2cn"):
     """
-    Create Alpaca format data based on Chinese and English files
+    Create aligned Alpaca format data based on timestamps
     
     Parameters:
-    cn_file: Chinese transcript file path
-    en_file: English transcript file path
+    cn_file: Path to Chinese text file
+    en_file: Path to English text file
     translation_direction: Translation direction, "en2cn" means English to Chinese, "cn2en" means Chinese to English
     """
-    cn_paragraphs = parse_transcript(cn_file)
-    en_paragraphs = parse_transcript(en_file)
+    # Parse texts of both languages, get lists of (timestamp, text)
+    cn_segments = parse_transcript(cn_file)
+    en_segments = parse_transcript(en_file)
     
-    # Ensure paragraph counts match, take the smaller count
-    min_length = min(len(cn_paragraphs), len(en_paragraphs))
+    # Create mappings from timestamps to text
+    cn_map = {timestamp: text for timestamp, text in cn_segments}
+    en_map = {timestamp: text for timestamp, text in en_segments}
     
+    # Find timestamps common to both languages
+    common_timestamps = sorted(set(cn_map.keys()) & set(en_map.keys()))
+    
+    # Report timestamp matching status
+    print(f"Chinese segments: {len(cn_segments)}, English segments: {len(en_segments)}")
+    print(f"Matching timestamps: {len(common_timestamps)}")
+    
+    if len(cn_segments) != len(en_segments):
+        print(f"Warning: Chinese and English segment counts differ, difference: {abs(len(cn_segments) - len(en_segments))}")
+    
+    if len(common_timestamps) < min(len(cn_segments), len(en_segments)):
+        print(f"Warning: {min(len(cn_segments), len(en_segments)) - len(common_timestamps)} segments ignored due to timestamp mismatch")
+    
+    # Extract talk name
+    talk_name = Path(en_file).stem.split(' * ')[0]
+    
+    # Create Alpaca data based on translation direction
     alpaca_data = []
     
-    talk_name = Path(en_file).stem.split(' * ')[0]  # Extract the talk title
-    
     if translation_direction == "en2cn":
-        instruction = f"Translate the following English TED Talk segment from '{talk_name}' into Chinese."
-        for i in range(min_length):
+        instruction = f"Translate the following TED Talk segment from '{talk_name}' into Chinese."
+        for timestamp in common_timestamps:
             alpaca_data.append({
                 "instruction": instruction,
-                "input": en_paragraphs[i],
-                "output": cn_paragraphs[i]
+                "input": en_map[timestamp],
+                "output": cn_map[timestamp]
             })
     else:  # cn2en
-        instruction = f"Translate the following Chinese TED Talk segment from '{talk_name}' into English."
-        for i in range(min_length):
+        instruction = f"Translate the following TED Talk segment from '{talk_name}' into English."
+        for timestamp in common_timestamps:
             alpaca_data.append({
                 "instruction": instruction,
-                "input": cn_paragraphs[i],
-                "output": en_paragraphs[i]
+                "input": cn_map[timestamp],
+                "output": en_map[timestamp]
             })
     
     return alpaca_data
@@ -77,8 +79,8 @@ def create_alpaca_data(cn_file, en_file, translation_direction="en2cn"):
 def main():
     # Command-line argument parsing
     import argparse
-    parser = argparse.ArgumentParser(description='Convert TED Talk transcripts to Alpaca format')
-    parser.add_argument('--dir', type=str, default='Ted_Talk', help='Directory containing TED Talk transcripts')
+    parser = argparse.ArgumentParser(description='Convert TED Talk transcripts to timestamp-aligned Alpaca format')
+    parser.add_argument('--dir', type=str, default='clean_translated_transcript', help='Directory containing TED Talk transcripts')
     parser.add_argument('--output', type=str, default='alpaca_data.json', help='Output JSON file')
     parser.add_argument('--direction', type=str, choices=['en2cn', 'cn2en', 'both'], default='both',
                         help='Translation direction: en2cn, cn2en, or both')
@@ -87,12 +89,14 @@ def main():
     ted_dir = args.dir
     all_files = os.listdir(ted_dir)
     
-    # Find all CN and EN file pairs.
+    # Find all Chinese and English file pairs
     cn_files = sorted([os.path.join(ted_dir, f) for f in all_files if f.endswith('CN.txt')])
     en_files = sorted([os.path.join(ted_dir, f) for f in all_files if f.endswith('EN.txt')])
     
-    # Ensure the number of file pairs matches
-    assert len(cn_files) == len(en_files), "CN and EN file counts don't match"
+    # Ensure file pair counts match
+    if len(cn_files) != len(en_files):
+        print(f"Error: Chinese file count ({len(cn_files)}) does not match English file count ({len(en_files)})!")
+        return
     
     all_alpaca_data = []
     
@@ -111,7 +115,7 @@ def main():
             all_alpaca_data.extend(cn2en_data)
             print(f"  Added {len(cn2en_data)} Chinese to English examples")
     
-    # Save data as a JSON file
+    # Save as JSON file
     with open(args.output, 'w', encoding='utf-8') as f:
         json.dump(all_alpaca_data, f, ensure_ascii=False, indent=2)
     
