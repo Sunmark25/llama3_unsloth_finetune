@@ -1,0 +1,755 @@
+00:13 Chris Anderson: Elon, hey, welcome back to TED.
+00:16 It's great to have you here.
+00:17 Elon Musk: Thanks for having me.
+00:19 CA: So, in the next half hour or so,
+00:21 we're going to spend some time
+00:23 exploring your vision for what an exciting future might look like,
+00:27 which I guess makes the first question a little ironic:
+00:31 Why are you boring?
+00:33 EM: Yeah.
+00:34 I ask myself that frequently.
+00:39 We're trying to dig a hole under LA,
+00:43 and this is to create the beginning
+00:47 of what will hopefully be a 3D network of tunnels
+00:52 to alleviate congestion.
+00:54 So right now, one of the most soul-destroying things is traffic.
+00:59 It affects people in every part of the world.
+01:02 It takes away so much of your life.
+01:06 It's horrible.
+01:08 It's particularly horrible in LA.
+01:12 CA: I think you've brought with you
+01:14 the first visualization that's been shown of this.
+01:17 Can I show this?
+01:18 EM: Yeah, absolutely. So this is the first time --
+01:21 Just to show what we're talking about.
+01:23 So a couple of key things that are important
+01:25 in having a 3D tunnel network.
+01:29 First of all, you have to be able
+01:30 to integrate the entrance and exit of the tunnel
+01:33 seamlessly into the fabric of the city.
+01:35 So by having an elevator,
+01:39 sort of a car skate, that's on an elevator,
+01:43 you can integrate the entrance and exits to the tunnel network
+01:47 just by using two parking spaces.
+01:51 And then the car gets on a skate.
+01:53 There's no speed limit here,
+01:54 so we're designing this to be able to operate at 200 kilometers an hour.
+01:59 CA: How much?
+02:01 EM: 200 kilometers an hour, or about 130 miles per hour.
+02:05 So you should be able to get from, say, Westwood to LAX
+02:11 in six minutes -- five, six minutes.
+02:18 CA: So possibly, initially done,
+02:19 it's like on a sort of toll road-type basis.
+02:22 EM: Yeah.
+02:23 CA: Which, I guess, alleviates some traffic
+02:25 from the surface streets as well.
+02:27 EM: So, I don't know if people noticed it in the video,
+02:29 but there's no real limit to how many levels of tunnel you can have.
+02:34 You can go much further deep than you can go up.
+02:37 The deepest mines are much deeper than the tallest buildings are tall,
+02:41 so you can alleviate any arbitrary level of urban congestion
+02:47 with a 3D tunnel network.
+02:48 This is a very important point.
+02:50 So a key rebuttal to the tunnels is that if you add one layer of tunnels,
+02:56 that will simply alleviate congestion, it will get used up,
+02:59 and then you'll be back where you started, back with congestion.
+03:02 But you can go to any arbitrary number of tunnels,
+03:05 any number of levels.
+03:06 CA: But people -- seen traditionally, it's incredibly expensive to dig,
+03:10 and that would block this idea.
+03:11 EM: Yeah.
+03:13 Well, they're right.
+03:14 To give you an example, the LA subway extension,
+03:18 which is -- I think it's a two-and-a-half mile extension
+03:22 that was just completed for two billion dollars.
+03:24 So it's roughly a billion dollars a mile to do the subway extension in LA.
+03:29 And this is not the highest utility subway in the world.
+03:33 So yeah, it's quite difficult to dig tunnels normally.
+03:38 I think we need to have at least a tenfold improvement
+03:41 in the cost per mile of tunneling.
+03:44 CA: And how could you achieve that?
+03:48 EM: Actually, if you just do two things,
+03:50 you can get to approximately an order of magnitude improvement,
+03:54 and I think you can go beyond that.
+03:56 So the first thing to do is to cut the tunnel diameter
+04:00 by a factor of two or more.
+04:02 So a single road lane tunnel according to regulations
+04:06 has to be 26 feet, maybe 28 feet in diameter
+04:09 to allow for crashes and emergency vehicles
+04:12 and sufficient ventilation for combustion engine cars.
+04:16 But if you shrink that diameter to what we're attempting,
+04:20 which is 12 feet, which is plenty to get an electric skate through,
+04:23 you drop the diameter by a factor of two
+04:27 and the cross-sectional area by a factor of four,
+04:31 and the tunneling cost scales with the cross-sectional area.
+04:33 So that's roughly a half-order of magnitude improvement right there.
+04:37 Then tunneling machines currently tunnel for half the time, then they stop,
+04:42 and then the rest of the time is putting in reinforcements
+04:45 for the tunnel wall.
+04:46 So if you design the machine instead
+04:48 to do continuous tunneling and reinforcing,
+04:51 that will give you a factor of two improvement.
+04:53 Combine that and that's a factor of eight.
+04:55 Also these machines are far from being at their power or thermal limits,
+04:60 so you can jack up the power to the machine substantially.
+05:03 I think you can get at least a factor of two,
+05:05 maybe a factor of four or five improvement on top of that.
+05:09 So I think there's a fairly straightforward series of steps
+05:14 to get somewhere in excess of an order of magnitude improvement
+05:17 in the cost per mile,
+05:18 and our target actually is --
+05:21 we've got a pet snail called Gary,
+05:24 this is from Gary the snail from "South Park,"
+05:27 I mean, sorry, "SpongeBob SquarePants."
+05:31 So Gary is capable of --
+05:36 currently he's capable of going 14 times faster
+05:40 than a tunnel-boring machine.
+05:44 CA: You want to beat Gary.
+05:46 EM: We want to beat Gary.
+05:49 He's not a patient little fellow,
+05:51 and that will be victory.
+05:54 Victory is beating the snail.
+05:57 CA: But a lot of people imagining, dreaming about future cities,
+06:00 they imagine that actually the solution is flying cars, drones, etc.
+06:04 You go aboveground.
+06:07 Why isn't that a better solution?
+06:08 You save all that tunneling cost.
+06:10 EM: Right. I'm in favor of flying things.
+06:13 Obviously, I do rockets, so I like things that fly.
+06:16 This is not some inherent bias against flying things,
+06:19 but there is a challenge with flying cars
+06:23 in that they'll be quite noisy,
+06:26 the wind force generated will be very high.
+06:32 Let's just say that if something's flying over your head,
+06:35 a whole bunch of flying cars going all over the place,
+06:38 that is not an anxiety-reducing situation.
+06:45 You don't think to yourself, "Well, I feel better about today."
+06:51 You're thinking, "Did they service their hubcap,
+06:53 or is it going to come off and guillotine me?"
+06:56 Things like that.
+07:00 CA: So you've got this vision
+07:02 of future cities with these rich, 3D networks of tunnels underneath.
+07:07 Is there a tie-in here with Hyperloop?
+07:09 Could you apply these tunnels to use for this Hyperloop idea
+07:13 you released a few years ago.
+07:15 EM: Yeah, so we've been sort of puttering around
+07:18 with the Hyperloop stuff for a while.
+07:21 We built a Hyperloop test track adjacent to SpaceX,
+07:25 just for a student competition,
+07:27 to encourage innovative ideas in transport.
+07:30 And it actually ends up being the biggest vacuum chamber in the world
+07:35 after the Large Hadron Collider,
+07:38 by volume.
+07:41 So it was quite fun to do that, but it was kind of a hobby thing,
+07:47 and then we think we might --
+07:51 so we've built a little pusher car to push the student pods,
+07:56 but we're going to try seeing how fast we can make the pusher go
+08:00 if it's not pushing something.
+08:03 So we're cautiously optimistic
+08:05 we'll be able to be faster than the world's fastest bullet train
+08:10 even in a .8-mile stretch.
+08:12 CA: Whoa. Good brakes.
+08:15 EM: Yeah, I mean, it's -- yeah.
+08:17 It's either going to smash into tiny pieces or go quite fast.
+08:22 CA: But you can picture, then, a Hyperloop in a tunnel
+08:25 running quite long distances.
+08:27 EM: Exactly.
+08:29 And looking at tunneling technology,
+08:31 it turns out that in order to make a tunnel,
+08:33 you have to --
+08:36 In order to seal against the water table,
+08:39 you've got to typically design a tunnel wall to be good
+08:43 to about five or six atmospheres.
+08:47 So to go to vacuum is only one atmosphere,
+08:50 or near-vacuum.
+08:52 So actually, it sort of turns out that automatically,
+08:56 if you build a tunnel that is good enough to resist the water table,
+09:00 it is automatically capable of holding vacuum.
+09:03 CA: Huh.
+09:04 EM: So, yeah.
+09:06 CA: And so you could actually picture,
+09:08 what kind of length tunnel is in Elon's future to running Hyperloop?
+09:13 EM: I think there's no real length limit.
+09:17 You could dig as much as you want.
+09:20 I think if you were to do something
+09:22 like a DC-to-New York Hyperloop,
+09:27 I think you'd probably want to go underground the entire way
+09:30 because it's a high-density area.
+09:32 You're going under a lot of buildings and houses,
+09:36 and if you go deep enough,
+09:37 you cannot detect the tunnel.
+09:40 Sometimes people think, well, it's going to be pretty annoying
+09:43 to have a tunnel dug under my house.
+09:44 Like, if that tunnel is dug
+09:46 more than about three or four tunnel diameters beneath your house,
+09:49 you will not be able to detect it being dug at all.
+09:53 In fact, if you're able to detect the tunnel being dug,
+09:60 whatever device you are using,
+10:01 you can get a lot of money for that device from the Israeli military,
+10:05 who is trying to detect tunnels from Hamas,
+10:08 and from the US Customs and Border patrol that try and detect drug tunnels.
+10:12 So the reality is
+10:16 that earth is incredibly good at absorbing vibrations,
+10:20 and once the tunnel depth is below a certain level,
+10:23 it is undetectable.
+10:25 Maybe if you have a very sensitive seismic instrument,
+10:27 you might be able to detect it.
+10:29 CA: So you've started a new company to do this
+10:32 called The Boring Company.
+10:33 Very nice. Very funny.
+10:37 EM: What's funny about that?
+10:41 CA: How much of your time is this?
+10:44 EM: It's maybe ...
+10:48 two or three percent.
+10:49 CA: You've called it a hobby.
+10:51 This is what an Elon Musk hobby looks like.
+10:55 EM: I mean, it really is, like --
+10:57 This is basically interns and people doing it part time.
+11:03 We bought some second-hand machinery.
+11:08 It's kind of puttering along, but it's making good progress, so --
+11:12 CA: So an even bigger part of your time
+11:14 is being spent on electrifying cars and transport through Tesla.
+11:19 Is one of the motivations for the tunneling project
+11:22 the realization that actually,
+11:25 in a world where cars are electric and where they're self-driving,
+11:28 there may end up being more cars on the roads
+11:32 on any given hour than there are now?
+11:34 EM: Yeah, exactly.
+11:38 A lot of people think that when you make cars autonomous,
+11:42 they'll be able to go faster and that will alleviate congestion.
+11:47 And to some degree that will be true,
+11:49 but once you have shared autonomy where it's much cheaper to go by car
+11:54 and you can go point to point,
+11:57 the affordability of going in a car will be better than that of a bus.
+12:02 Like, it will cost less than a bus ticket.
+12:04 So the amount of driving that will occur will be much greater with shared autonomy,
+12:09 and actually traffic will get far worse.
+12:12 CA: You started Tesla with the goal of persuading the world
+12:17 that electrification was the future of cars,
+12:20 and a few years ago, people were laughing at you.
+12:22 Now, not so much.
+12:25 EM: OK.
+12:28 I don't know. I don't know.
+12:30 CA: But isn't it true that pretty much every auto manufacturer
+12:34 has announced serious electrification plans
+12:37 for the short- to medium-term future?
+12:40 EM: Yeah. Yeah.
+12:43 I think almost every automaker has some electric vehicle program.
+12:48 They vary in seriousness.
+12:50 Some are very serious about transitioning entirely to electric,
+12:54 and some are just dabbling in it.
+12:57 And some, amazingly, are still pursuing fuel cells,
+12:60 but I think that won't last much longer.
+13:02 CA: But isn't there a sense, though, Elon,
+13:04 where you can now just declare victory and say, you know, "We did it."
+13:08 Let the world electrify, and you go on and focus on other stuff?
+13:14 EM: Yeah.
+13:16 I intend to stay with Tesla as far into the future as I can imagine,
+13:21 and there are a lot of exciting things that we have coming.
+13:26 Obviously the Model 3 is coming soon.
+13:28 We'll be unveiling the Tesla Semi truck.
+13:32 CA: OK, we're going to come to this.
+13:34 So Model 3, it's supposed to be coming in July-ish.
+13:39 EM: Yeah, it's looking quite good for starting production in July.
+13:44 CA: Wow.
+13:45 One of the things that people are so excited about
+13:47 is the fact that it's got autopilot.
+13:51 And you put out this video a while back
+13:53 showing what that technology would look like.
+13:58 EM: Yeah.
+13:60 CA: There's obviously autopilot in Model S right now.
+14:02 What are we seeing here?
+14:04 EM: Yeah, so this is using only cameras and GPS.
+14:10 So there's no LIDAR or radar being used here.
+14:12 This is just using passive optical, which is essentially what a person uses.
+14:17 The whole road system is meant to be navigated
+14:20 with passive optical, or cameras,
+14:24 and so once you solve cameras
+14:27 or vision,
+14:30 then autonomy is solved.
+14:31 If you don't solve vision, it's not solved.
+14:34 So that's why our focus is so heavily on having a vision neural net
+14:40 that's very effective for road conditions.
+14:43 CA: Right. Many other people are going the LIDAR route.
+14:46 You want cameras plus radar is most of it.
+14:49 EM: You can absolutely be superhuman with just cameras.
+14:52 Like, you can probably do it ten times better than humans would,
+14:55 just cameras.
+14:57 CA: So the new cars being sold right now have eight cameras in them.
+15:01 They can't yet do what that showed.
+15:05 When will they be able to?
+15:08 EM: I think we're still on track for being able to go cross-country
+15:14 from LA to New York by the end of the year, fully autonomous.
+15:18 CA: OK, so by the end of the year, you're saying,
+15:22 someone's going to sit in a Tesla without touching the steering wheel,
+15:26 tap in "New York," off it goes.
+15:29 EM: Yeah.
+15:30 CA: Won't ever have to touch the wheel -- by the end of 2017.
+15:34 EM: Yeah. Essentially, November or December of this year,
+15:39 we should be able to go all the way from a parking lot in California
+15:43 to a parking lot in New York,
+15:45 no controls touched at any point during the entire journey.
+15:51 CA: Amazing.
+15:52 But part of that is possible
+15:54 because you've already got a fleet of Teslas driving all these roads.
+15:57 You're accumulating a huge amount of data of that national road system.
+16:03 EM: Yes, but the thing that will be interesting
+16:06 is that I'm actually fairly confident it will be able to do that route
+16:13 even if you change the route dynamically.
+16:17 So, it's fairly easy --
+16:20 If you say I'm going to be really good at one specific route, that's one thing,
+16:24 but it should be able to go, really be very good,
+16:29 certainly once you enter a highway,
+16:31 to go anywhere on the highway system
+16:34 in a given country.
+16:36 So it's not sort of limited to LA to New York.
+16:38 We could change it and make it Seattle-Florida,
+16:42 that day, in real time.
+16:44 So you were going from LA to New York.
+16:47 Now go from LA to Toronto.
+16:50 CA: So leaving aside regulation for a second,
+16:53 in terms of the technology alone,
+16:56 the time when someone will be able to buy one of your cars
+16:60 and literally just take the hands off the wheel and go to sleep
+17:04 and wake up and find that they've arrived,
+17:06 how far away is that, to do that safely?
+17:08 EM: I think that's about two years.
+17:10 So the real trick of it is not how do you make it work
+17:13 say 99.9 percent of the time,
+17:16 because, like, if a car crashes one in a thousand times,
+17:20 then you're probably still not going to be comfortable falling asleep.
+17:28 You shouldn't be, certainly.
+17:32 It's never going to be perfect.
+17:35 No system is going to be perfect,
+17:37 but if you say it's perhaps --
+17:41 the car is unlikely to crash
+17:43 in a hundred lifetimes, or a thousand lifetimes,
+17:46 then people are like, OK, wow, if I were to live a thousand lives,
+17:50 I would still most likely never experience a crash,
+17:53 then that's probably OK.
+17:54 CA: To sleep.
+17:56 I guess the big concern of yours is that people may actually
+17:59 get seduced too early to think that this is safe,
+18:01 and that you'll have some horrible incident happen that puts things back.
+18:05 EM: Well, I think that the autonomy system is likely to at least mitigate the crash,
+18:11 except in rare circumstances.
+18:14 The thing to appreciate about vehicle safety
+18:17 is this is probabilistic.
+18:21 I mean, there's some chance that any time a human driver gets in a car,
+18:24 that they will have an accident that is their fault.
+18:27 It's never zero.
+18:29 So really the key threshold for autonomy
+18:34 is how much better does autonomy need to be than a person
+18:38 before you can rely on it?
+18:40 CA: But once you get literally safe hands-off driving,
+18:43 the power to disrupt the whole industry seems massive,
+18:46 because at that point you've spoken of people being able to buy a car,
+18:50 drops you off at work, and then you let it go
+18:53 and provide a sort of Uber-like service to other people,
+18:57 earn you money,
+18:58 maybe even cover the cost of your lease of that car,
+19:00 so you can kind of get a car for free.
+19:02 Is that really likely?
+19:03 EM: Yeah. Absolutely this is what will happen.
+19:06 So there will be a shared autonomy fleet
+19:08 where you buy your car
+19:10 and you can choose to use that car exclusively,
+19:13 you could choose to have it be used only by friends and family,
+19:17 only by other drivers who are rated five star,
+19:22 you can choose to share it sometimes but not other times.
+19:28 That's 100 percent what will occur.
+19:31 It's just a question of when.
+19:34 CA: Wow.
+19:35 So you mentioned the Semi
+19:37 and I think you're planning to announce this in September,
+19:40 but I'm curious whether there's anything you could show us today?
+19:43 EM: I will show you a teaser shot of the truck.
+19:50 It's alive.
+19:52 CA: OK.
+19:53 EM: That's definitely a case where we want to be cautious
+19:56 about the autonomy features.
+19:58 Yeah.
+20:01 CA: We can't see that much of it,
+20:03 but it doesn't look like just a little friendly neighborhood truck.
+20:06 It looks kind of badass.
+20:07 What sort of semi is this?
+20:11 EM: So this is a heavy duty, long-range semitruck.
+20:16 So it's the highest weight capability
+20:20 and with long range.
+20:23 So essentially it's meant to alleviate the heavy-duty trucking loads.
+20:29 And this is something which people do not today think is possible.
+20:35 They think the truck doesn't have enough power or it doesn't have enough range,
+20:38 and then with the Tesla Semi
+20:41 we want to show that no, an electric truck
+20:44 actually can out-torque any diesel semi.
+20:50 And if you had a tug-of-war competition,
+20:54 the Tesla Semi will tug the diesel semi uphill.
+21:03 CA: That's pretty cool. And short term, these aren't driverless.
+21:06 These are going to be trucks that truck drivers want to drive.
+21:10 EM: Yes. So what will be really fun about this
+21:13 is you have a flat torque RPM curve with an electric motor,
+21:19 whereas with a diesel motor or any kind of internal combustion engine car,
+21:22 you've got a torque RPM curve that looks like a hill.
+21:26 So this will be a very spry truck.
+21:29 You can drive this around like a sports car.
+21:32 There's no gears. It's, like, single speed.
+21:34 CA: There's a great movie to be made here somewhere.
+21:37 I don't know what it is and I don't know that it ends well,
+21:39 but it's a great movie.
+21:42 EM: It's quite bizarre test-driving.
+21:44 When I was driving the test prototype for the first truck.
+21:48 It's really weird, because you're driving around
+21:51 and you're just so nimble, and you're in this giant truck.
+21:54 CA: Wait, you've already driven a prototype?
+21:57 EM: Yeah, I drove it around the parking lot,
+21:59 and I was like, this is crazy.
+22:01 CA: Wow. This is no vaporware.
+22:03 EM: It's just like, driving this giant truck
+22:05 and making these mad maneuvers.
+22:07 CA: This is cool. OK, from a really badass picture
+22:10 to a kind of less badass picture.
+22:12 This is just a cute house from "Desperate Housewives" or something.
+22:16 What on earth is going on here?
+22:19 EM: Well, this illustrates the picture of the future
+22:21 that I think is how things will evolve.
+22:24 You've got an electric car in the driveway.
+22:27 If you look in between the electric car and the house,
+22:30 there are actually three Powerwalls stacked up against the side of the house,
+22:34 and then that house roof is a solar roof.
+22:37 So that's an actual solar glass roof.
+22:39 CA: OK.
+22:41 EM: That's a picture of a real -- well, admittedly, it's a real fake house.
+22:45 That's a real fake house.
+22:50 CA: So these roof tiles,
+22:51 some of them have in them basically solar power, the ability to --
+22:58 EM: Yeah. Solar glass tiles
+22:59 where you can adjust the texture and the color
+23:04 to a very fine-grained level,
+23:06 and then there's sort of microlouvers in the glass,
+23:12 such that when you're looking at the roof from street level
+23:16 or close to street level,
+23:17 all the tiles look the same
+23:20 whether there is a solar cell behind it or not.
+23:26 So you have an even color
+23:29 from the ground level.
+23:33 If you were to look at it from a helicopter,
+23:35 you would be actually able to look through and see
+23:37 that some of the glass tiles have a solar cell behind them and some do not.
+23:42 You can't tell from street level.
+23:43 CA: You put them in the ones that are likely to see a lot of sun,
+23:46 and that makes these roofs super affordable, right?
+23:49 They're not that much more expensive than just tiling the roof.
+23:52 EM: Yeah.
+23:54 We're very confident that the cost of the roof
+23:58 plus the cost of electricity --
+24:02 A solar glass roof will be less than the cost of a normal roof
+24:05 plus the cost of electricity.
+24:06 So in other words,
+24:08 this will be economically a no-brainer,
+24:12 we think it will look great,
+24:14 and it will last --
+24:16 We thought about having the warranty be infinity,
+24:19 but then people thought,
+24:20 well, that might sound like were just talking rubbish,
+24:23 but actually this is toughened glass.
+24:28 Well after the house has collapsed
+24:31 and there's nothing there,
+24:33 the glass tiles will still be there.
+24:38 CA: I mean, this is cool.
+24:40 So you're rolling this out in a couple week's time, I think,
+24:43 with four different roofing types.
+24:46 EM: Yeah, we're starting off with two, two initially,
+24:48 and the second two will be introduced early next year.
+24:51 CA: And what's the scale of ambition here?
+24:53 How many houses do you believe could end up having this type of roofing?
+24:60 EM: I think eventually
+25:03 almost all houses will have a solar roof.
+25:08 The thing is to consider the time scale here
+25:11 to be probably on the order
+25:14 of 40 or 50 years.
+25:17 So on average, a roof is replaced every 20 to 25 years.
+25:23 But you don't start replacing all roofs immediately.
+25:27 But eventually, if you say were to fast-forward
+25:30 to say 15 years from now,
+25:34 it will be unusual to have a roof that does not have solar.
+25:38 CA: Is there a mental model thing that people don't get here
+25:41 that because of the shift in the cost, the economics of solar power,
+25:45 most houses actually have enough sunlight on their roof
+25:49 pretty much to power all of their needs.
+25:51 If you could capture the power,
+25:53 it could pretty much power all their needs.
+25:55 You could go off-grid, kind of.
+25:57 EM: It depends on where you are
+25:58 and what the house size is relative to the roof area,
+26:02 but it's a fair statement to say
+26:04 that most houses in the US have enough roof area
+26:08 to power all the needs of the house.
+26:12 CA: So the key to the economics
+26:15 of the cars, the Semi, of these houses
+26:19 is the falling price of lithium-ion batteries,
+26:23 which you've made a huge bet on as Tesla.
+26:25 In many ways, that's almost the core competency.
+26:28 And you've decided
+26:30 that to really, like, own that competency,
+26:35 you just have to build the world's largest manufacturing plant
+26:39 to double the world's supply of lithium-ion batteries,
+26:42 with this guy. What is this?
+26:44 EM: Yeah, so that's the Gigafactory,
+26:48 progress so far on the Gigafactory.
+26:50 Eventually, you can sort of roughly see
+26:52 that there's sort of a diamond shape overall,
+26:55 and when it's fully done, it'll look like a giant diamond,
+26:60 or that's the idea behind it,
+27:02 and it's aligned on true north.
+27:04 It's a small detail.
+27:05 CA: And capable of producing, eventually,
+27:09 like a hundred gigawatt hours of batteries a year.
+27:13 EM: A hundred gigawatt hours. We think probably more, but yeah.
+27:16 CA: And they're actually being produced right now.
+27:18 EM: They're in production already. CA: You guys put out this video.
+27:21 I mean, is that speeded up?
+27:23 EM: That's the slowed down version.
+27:26 CA: How fast does it actually go?
+27:28 EM: Well, when it's running at full speed,
+27:31 you can't actually see the cells without a strobe light.
+27:35 It's just blur.
+27:40 CA: One of your core ideas, Elon, about what makes an exciting future
+27:44 is a future where we no longer feel guilty about energy.
+27:47 Help us picture this.
+27:49 How many Gigafactories, if you like, does it take to get us there?
+27:54 EM: It's about a hundred, roughly.
+27:56 It's not 10, it's not a thousand.
+27:57 Most likely a hundred.
+28:00 CA: See, I find this amazing.
+28:02 You can picture what it would take
+28:06 to move the world off this vast fossil fuel thing.
+28:09 It's like you're building one,
+28:12 it costs five billion dollars,
+28:14 or whatever, five to 10 billion dollars.
+28:17 Like, it's kind of cool that you can picture that project.
+28:20 And you're planning to do, at Tesla -- announce another two this year.
+28:25 EM: I think we'll announce locations
+28:28 for somewhere between two and four Gigafactories later this year.
+28:32 Yeah, probably four.
+28:34 CA: Whoa.
+28:38 No more teasing from you for here?
+28:42 Like -- where, continent?
+28:47 You can say no.
+28:49 EM: We need to address a global market.
+28:53 CA: OK.
+28:56 This is cool.
+28:59 I think we should talk for --
+29:05 Actually, global market.
+29:06 I'm going to ask you one question about politics, only one.
+29:10 I'm kind of sick of politics, but I do want to ask you this.
+29:14 You're on a body now giving advice to a guy --
+29:20 EM: Who?
+29:21 CA: Who has said he doesn't really believe in climate change,
+29:24 and there's a lot of people out there who think you shouldn't be doing that.
+29:28 They'd like you to walk away from that.
+29:30 What would you say to them?
+29:33 EM: Well, I think that first of all,
+29:36 I'm just on two advisory councils
+29:39 where the format consists of going around the room
+29:42 and asking people's opinion on things,
+29:45 and so there's like a meeting every month or two.
+29:50 That's the sum total of my contribution.
+29:53 But I think to the degree that there are people in the room
+29:56 who are arguing in favor of doing something about climate change,
+30:00 or social issues,
+30:07 I've used the meetings I've had thus far
+30:10 to argue in favor of immigration and in favor of climate change.
+30:17 And if I hadn't done that,
+30:19 that wasn't on the agenda before.
+30:22 So maybe nothing will happen, but at least the words were said.
+30:27 CA: OK.
+30:32 So let's talk SpaceX and Mars.
+30:35 Last time you were here,
+30:37 you spoke about what seemed like a kind of incredibly ambitious dream
+30:41 to develop rockets that were actually reusable.
+30:45 And you've only gone and done it.
+30:47 EM: Finally. It took a long time.
+30:49 CA: Talk us through this. What are we looking at here?
+30:51 EM: So this is one of our rocket boosters
+30:53 coming back from very high and fast in space.
+30:58 So just delivered the upper stage
+31:01 at high velocity.
+31:03 I think this might have been at sort of Mach 7 or so,
+31:07 delivery of the upper stage.
+31:14 CA: So that was a sped-up --
+31:15 EM: That was the slowed down version.
+31:19 CA: I thought that was the sped-up version.
+31:21 But I mean, that's amazing,
+31:22 and several of these failed
+31:24 before you finally figured out how to do it,
+31:27 but now you've done this, what, five or six times?
+31:30 EM: We're at eight or nine.
+31:32 CA: And for the first time,
+31:34 you've actually reflown one of the rockets that landed.
+31:37 EM: Yeah, so we landed the rocket booster
+31:40 and then prepped it for flight again and flew it again,
+31:42 so it's the first reflight of an orbital booster
+31:47 where that reflight is relevant.
+31:49 So it's important to appreciate that reusability is only relevant
+31:53 if it is rapid and complete.
+31:57 So like an aircraft or a car,
+32:01 the reusability is rapid and complete.
+32:03 You do not send your aircraft to Boeing in-between flights.
+32:08 CA: Right. So this is allowing you to dream of this really ambitious idea
+32:13 of sending many, many, many people to Mars
+32:16 in, what, 10 or 20 years time, I guess.
+32:19 EM: Yeah.
+32:20 CA: And you've designed this outrageous rocket to do it.
+32:23 Help us understand the scale of this thing.
+32:26 EM: Well, visually you can see that's a person.
+32:33 Yeah, and that's the vehicle.
+32:36 CA: So if that was a skyscraper,
+32:38 that's like, did I read that, a 40-story skyscraper?
+32:41 EM: Probably a little more, yeah.
+32:44 The thrust level of this is really --
+32:50 This configuration is about four times the thrust of the Saturn V moon rocket.
+32:56 CA: Four times the thrust of the biggest rocket humanity ever created before.
+33:01 EM: Yeah. Yeah.
+33:05 CA: As one does. EM: Yeah.
+33:09 In units of 747, a 747 is only about a quarter of a million pounds of thrust,
+33:15 so for every 10 million pounds of thrust,
+33:18 there's 40 747s.
+33:20 So this would be the thrust equivalent of 120 747s, with all engines blazing.
+33:26 CA: And so even with a machine designed to escape Earth's gravity,
+33:30 I think you told me last time
+33:32 this thing could actually take a fully loaded 747,
+33:35 people, cargo, everything,
+33:38 into orbit.
+33:39 EM: Exactly. This can take a fully loaded 747 with maximum fuel,
+33:44 maximum passengers, maximum cargo on the 747 --
+33:49 this can take it as cargo.
+33:52 CA: So based on this,
+33:54 you presented recently this Interplanetary Transport System
+33:59 which is visualized this way.
+34:02 This is a scene you picture in, what, 30 years time? 20 years time?
+34:07 People walking into this rocket.
+34:09 EM: I'm hopeful it's sort of an eight- to 10-year time frame.
+34:14 Aspirationally, that's our target.
+34:16 Our internal targets are more aggressive, but I think --
+34:24 CA: OK.
+34:25 EM: While vehicle seems quite large
+34:27 and is large by comparison with other rockets,
+34:29 I think the future spacecraft
+34:33 will make this look like a rowboat.
+34:38 The future spaceships will be truly enormous.
+34:43 CA: Why, Elon?
+34:45 Why do we need to build a city on Mars
+34:49 with a million people on it in your lifetime,
+34:52 which I think is kind of what you've said you'd love to do?
+34:56 EM: I think it's important to have
+35:01 a future that is inspiring and appealing.
+35:04 I just think there have to be reasons
+35:07 that you get up in the morning and you want to live.
+35:10 Like, why do you want to live?
+35:11 What's the point? What inspires you?
+35:13 What do you love about the future?
+35:15 And if we're not out there,
+35:16 if the future does not include being out there among the stars
+35:20 and being a multiplanet species,
+35:22 I find that it's incredibly depressing
+35:25 if that's not the future that we're going to have.
+35:32 CA: People want to position this as an either or,
+35:34 that there are so many desperate things happening on the planet now
+35:38 from climate to poverty to, you know, you pick your issue.
+35:42 And this feels like a distraction.
+35:45 You shouldn't be thinking about this.
+35:47 You should be solving what's here and now.
+35:49 And to be fair, you've done a fair old bit to actually do that
+35:52 with your work on sustainable energy.
+35:55 But why not just do that?
+35:59 EM: I think there's --
+36:05 I look at the future from the standpoint of probabilities.
+36:09 It's like a branching stream of probabilities,
+36:13 and there are actions that we can take that affect those probabilities
+36:20 or that accelerate one thing or slow down another thing.
+36:24 I may introduce something new to the probability stream.
+36:31 Sustainable energy will happen no matter what.
+36:33 If there was no Tesla, if Tesla never existed,
+36:36 it would have to happen out of necessity.
+36:38 It's tautological.
+36:40 If you don't have sustainable energy, it means you have unsustainable energy.
+36:44 Eventually you will run out,
+36:45 and the laws of economics will drive civilization
+36:51 towards sustainable energy,
+36:53 inevitably.
+36:54 The fundamental value of a company like Tesla
+36:57 is the degree to which it accelerates the advent of sustainable energy,
+37:02 faster than it would otherwise occur.
+37:05 So when I think, like,
+37:06 what is the fundamental good of a company like Tesla,
+37:09 I would say, hopefully,
+37:11 if it accelerated that by a decade, potentially more than a decade,
+37:16 that would be quite a good thing to occur.
+37:19 That's what I consider to be
+37:20 the fundamental aspirational good of Tesla.
+37:25 Then there's becoming a multiplanet species and space-faring civilization.
+37:32 This is not inevitable.
+37:34 It's very important to appreciate this is not inevitable.
+37:37 The sustainable energy future I think is largely inevitable,
+37:40 but being a space-faring civilization is definitely not inevitable.
+37:44 If you look at the progress in space,
+37:49 in 1969 you were able to send somebody to the moon.
+37:52 1969.
+37:55 Then we had the Space Shuttle.
+37:58 The Space Shuttle could only take people to low Earth orbit.
+38:01 Then the Space Shuttle retired,
+38:03 and the United States could take no one to orbit.
+38:06 So that's the trend.
+38:08 The trend is like down to nothing.
+38:12 People are mistaken when they think
+38:14 that technology just automatically improves.
+38:16 It does not automatically improve.
+38:18 It only improves if a lot of people work very hard to make it better,
+38:23 and actually it will, I think, by itself degrade, actually.
+38:28 You look at great civilizations like Ancient Egypt,
+38:31 and they were able to make the pyramids,
+38:33 and they forgot how to do that.
+38:35 And then the Romans, they built these incredible aqueducts.
+38:38 They forgot how to do it.
+38:41 CA: Elon, it almost seems, listening to you
+38:43 and looking at the different things you've done,
+38:45 that you've got this unique double motivation on everything
+38:48 that I find so interesting.
+38:52 One is this desire to work for humanity's long-term good.
+38:56 The other is the desire to do something exciting.
+38:59 And often it feels like you feel like you need the one to drive the other.
+39:03 With Tesla, you want to have sustainable energy,
+39:07 so you made these super sexy, exciting cars to do it.
+39:11 Solar energy, we need to get there,
+39:13 so we need to make these beautiful roofs.
+39:15 We haven't even spoken about your newest thing,
+39:17 which we don't have time to do,
+39:19 but you want to save humanity from bad AI,
+39:21 and so you're going to create this really cool brain-machine interface
+39:24 to give us all infinite memory and telepathy and so forth.
+39:28 And on Mars, it feels like what you're saying is,
+39:31 yeah, we need to save humanity
+39:35 and have a backup plan,
+39:36 but also we need to inspire humanity,
+39:39 and this is a way to inspire.
+39:46 EM: I think the value of beauty and inspiration
+39:49 is very much underrated,
+39:51 no question.
+39:53 But I want to be clear.
+39:54 I'm not trying to be anyone's savior.
+39:56 That is not the --
+39:58 I'm just trying to think about the future
+40:02 and not be sad.
+40:07 CA: Beautiful statement.
+40:10 I think everyone here would agree
+40:12 that it is not --
+40:14 None of this is going to happen inevitably.
+40:16 The fact that in your mind, you dream this stuff,
+40:20 you dream stuff that no one else would dare dream,
+40:22 or no one else would be capable of dreaming
+40:25 at the level of complexity that you do.
+40:29 The fact that you do that, Elon Musk, is a really remarkable thing.
+40:32 Thank you for helping us all to dream a bit bigger.
+40:34 EM: But you'll tell me if it ever starts getting genuinely insane, right?
+40:40 CA: Thank you, Elon Musk. That was really, really fantastic.
+40:44 That was really fantastic.
