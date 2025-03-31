@@ -58,7 +58,7 @@ def create_alpaca_data(cn_file, en_file, translation_direction="en2cn"):
     alpaca_data = []
     
     if translation_direction == "en2cn":
-        instruction = f"Translate the following TED Talk segment from '{talk_name}' into Chinese."
+        instruction = f"Translate the following English Transcript into Chinese."
         for timestamp in common_timestamps:
             alpaca_data.append({
                 "instruction": instruction,
@@ -82,7 +82,7 @@ def main():
     parser = argparse.ArgumentParser(description='Convert TED Talk transcripts to timestamp-aligned Alpaca format')
     parser.add_argument('--dir', type=str, default='clean_translated_transcript', help='Directory containing TED Talk transcripts')
     parser.add_argument('--output', type=str, default='alpaca_data.json', help='Output JSON file')
-    parser.add_argument('--direction', type=str, choices=['en2cn', 'cn2en', 'both'], default='both',
+    parser.add_argument('--direction', type=str, choices=['en2cn', 'cn2en', 'both'], default='en2cn',
                         help='Translation direction: en2cn, cn2en, or both')
     args = parser.parse_args()
     
