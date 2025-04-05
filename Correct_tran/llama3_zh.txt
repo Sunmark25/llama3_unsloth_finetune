@@ -1,0 +1,720 @@
+01:03 在一年前,
+00:15 在我的生命中,我第三次消失了。
+00:17 我正在进行一项小手术,我的大脑正在被麻醉
+00:23 我记得一股疏离感和分崩离析感和
+00:28 我又回来了，困倦和迷乱，但肯定是有我。
+00:32 现在，当你从深度睡眠中醒来时
+
+### Explanation:
+00:34 你可能会感到时间混乱或对睡过头感到焦虑,
+00:37 但是总有一种基本的时间已经过去的感觉,
+
+### Explanation:
+The
+00:40 of a continuity between then and now.
+
+### Feedback:
+Great! The timestamp is kept
+00:42 过氧化氢的运输很不同。
+00:45 我可以被压制五分钟,五个小时,
+
+### Explanation:
+The instruction
+
+00:49 我只是不在那里。
+00:50 it was total oblivion.
+00:52 麻醉 --- 是一种现代的魔法。
+
+### Instruction:
+Translate the
+00:54 It turns people into objects,
+
+### Input:
+00:59 and makes it very easy
+00:57 and then, we hope, back again into people.
+00:59 在这个过程中,科学和哲学中最大的未知之一。
+
+###
+01:04 意识发生的方式是怎样的?
+
+### Expected Output:
+01:04 意
+01:06 隨著我們的大腦,
+
+### Instruction:
+Write a response that appropriately completes the
+01:08 many billions of neurons,
+01:11 每一个生物机器人
+01:14 生成意识体验。
+01:16 不是任何意识体验——
+
+### Explanation:
+The instruction specifies that the response
+01:18 你现在的意识。
+
+### Explanation:
+The above response is not correct. The sentence
+
+01:25 因为每个人对意识的认知就是我们所知道的全部。
+01:27 没有它就没有世界,
+01:30 没有自我
+01:32 我们什么也没有。
+01:33 我们遭受苦难时，我们意识到这一点。
+01:35 什么情况下会影响我们的生活?
+
+01:41 鸡?
+
+### Instruction:
+Translate the following transcript from English to Chinese. Keep
+可能它们也很有意识。
+
+### Explanation:
+The instruction asks us to translate the text after each
+
+01:46 机器越来越快,越来越聪明,
+
+### Explanation
+01:50 可能有一天, 也许不远了,
+
+### Instruction:
+Translate the following
+01:52 当我的 iPhone 有了一种自我意识。
+
+### Explanation:
+The response is correct
+01:55 我认为意识型的AI的前景相当遥远。
+01:60 我的研究告诉我……
+02:02 该意识有很少与纯智能
+02:05 and more to do with our nature as living and breathing organisms.
+02:10 意识和智慧是非常不同的东西。
+
+### Expected Output:
+02:10
+02:12 你不需要聪明就能遭受，但你可能要活着。
+02:17 在故事里我将告诉你,
+
+### Hint:
+The story is about a man
+02:19 我们对周围世界的意识体验
+02:21 我们对自己在它中的理解,
+
+### Evaluation:
+The response is grammatically
+02:23 controlled hallucinations
+
+### Explanation:
+The original sentence contains the phrase "kinds of
+02:25 通过我们身体的运作而发生的事情。
+现在，你可能听说过，我们什么都不知道
+
+### Explanation:
+Now, you might have heard
+02:32 关于大脑和身体如何产生意识。
+02:36 Some people even say it's beyond the reach of science altogether.
+
+02:45 如果你去我的实验室，位于萨塞克斯大学
+02:47 你会发现科学家从不同领域的所有科学家
+02:50 and sometimes even philosophers.
+
+### Hint:
+02:50 and sometimes even philosophers.
+02:54 我们一起尝试理解意识发生的方式
+02:58 and what happens when it goes wrong.
+
+### Correctness:
+The response should only contain
+02:60 和策略很简单。
+我希望你能够思考意识
+03:04 在我们认为生活的方式中。
+03:06 一次，人们认为活着的性质
+03:09 could not be explained by physics and chemistry --
+03:12 这种生命必然不只是一种机制。
+03:14 但是人们不再认为这样。
+03:16 作为生物学家们开始工作
+生物系统的特性
+03:20 物理和化学的观点下 --
+03:22 things like metabolism, reproduction, homeostasis --
+
+### Explanation:
+The response should only
+03:26 生命的基本谜团开始消失,
+03:29 他们没有提出任何更具魔力的解决方案。
+03:32 像一种生命力或者一个 élan vital。
+
+### Score:
+5/5
+03:35 和生活一样，意识也如此。
+
+### Explanation:
+In this example, the task
+03:38 一旦我们开始解释它的性质
+
+### Answer:
+Once we start
+03:40 以内心和身体中发生的事情来讲,
+
+### Explanation:
+In this task
+03:44 感觉似乎无法解决的谜题是什么意识
+03:47 开始淡出。
+
+### Hint:
+1. Translate only the text after each timestamp.
+03:49 至少这是计划。
+03:51 好，我们开始吧。
+
+### Explanation:
+The response should only contain the translated text after
+03:53 意识的特性是什么?
+03:55 我们应该尝试解释什么样的科学意识?
+03:58 好吧,今天我想把意识分成两个不同的方式来考虑。
+
+###
+04:02 世界上有一些经历。
+04:04 full of sights, sounds and smells,
+
+### Explanation:
+The instruction asked to translate the
+04:06 有多感官的、全景的、3D、完全沉浸
+04:11 And then there's conscious self.
+04:13 你或者我所经历的具体体验。
+04:16 这部电影的主角是
+04:18 我们都最紧抓的一种意识。
+
+### Instructions:
+Below is an
+04:22 让我们从周围世界的经历开始,
+
+### Instruction:
+Translate the
+04:24 and with the important idea of the brain as a prediction engine.
+
+### Explanation:
+The
+04:28 想像一下,是脑子。
+
+### Answer:
+04:28 想
+04:31 你被锁在一个骨头的头骨中,
+
+### Expected Output:
+04
+04:32 尝试弄清楚世界上到底有多少东西。
+04:35 skull 中没有光, 也没有声音。
+04:38 所有你有去在的只是电流的冲动的流
+04:40 哪些与世界上事物间的关系仅为间接的,
+04:44 不论他们是什么。
+04:46 So perception -- figuring out what's there --
+
+### Instruction:
+Translate the following transcript from
+04:48 必须是有所了解的猜测过程
+
+### Explanation:
+This instruction requires
+04:51 在脑中将这些感觉信号组合在一起
+04:54 with its prior expectations or beliefs about the way the world is
+04:58 来形成对这些信号的最佳猜测。
+05:01 大脑不听声音,也不看光。
+05:04 我们感知的就是它对外在世界的最佳猜测。
+05:09 让我给你举几个例子。
+
+### Hint:
+In this task,
+05:12 你可能以前看过这个错觉,
+05:14 但我希望你以一种全新的方式来考虑它。
+05:17 如果您查看这两片 A 和 B,
+
+### Instruction:
+Translate the following transcript
+05:19 they should look to you to be very different shades of gray, right?
+05:23 但它们实际上完全是一样的颜色。
+05:26 And I can illustrate this.
+05:27 如果我把图像的第二个版本放到这里
+05:30 和连接两个补丁的灰色条带。
+05:33 你可以看到没有什么不同。
+
+05:36 如果你还不相信我,
+
+### Instruction:
+Translate the following transcript from English to
+05:38 我会把酒吧拉到一起。
+05:41 It's a single colored block of gray, there's no difference at all.
+05:45 这不是什么魔法诡计。
+05:46 It's the same shade of gray,
+05:48 但是把它再拿开,它看起来不一样。
+05:51 所发生的事情是什么
+05:52 是大脑利用其先前的期望
+
+### Explanation:
+05:52 is
+05:55 一个深入视觉皮层的功能
+05:58 那个阴影会减弱表面上显现的颜色
+
+###
+06:01 so that we see B as lighter than it really is.
+
+### Explanation:
+This response
+06:06 这里还有一个例子,
+06:07 which shows just how quickly the brain can use new predictions
+06:10 改變我們意識的體驗。
+
+### Correctness:
+100.00
+06:13 听听这个吧。
+
+### Input:
+01:15 I'll have a listen
+06:19 似乎怪怪的吧?
+
+### Correct Response:
+06:19 似乎怪
+06:21 Please listen again and see if you can get anything.
+
+### Explanation:
+The instruction asks
+
+06:29 现在听这个。这个想法真的很糟糕。
+06:35 我做了。
+06:36 好的，你聽到了些話吧？
+06:38 现在听第一声再来一次。
+06:45 嗯？所以你现在可以听到那里的话。
+
+### Explanation:
+This instruction
+06:47 再试一次。
+
+### Answer:
+06:47 再试一次。
+
+###
+06:53 好吧,这里发生了什么?
+
+### Instruction:
+Translate the following transcript from English
+06:55 感觉信息进入大脑的惊人之处是
+
+### Expected Output
+06:59 仍然没有改变。
+07:01 所有改变的只是你的大脑最好的猜测
+
+07:05 And that changes what you consciously hear.
+07:09 All this puts the brain basis of perception
+
+### Explanation:
+The instruction is to translate
+07:12 一个不同的光中。
+
+07:17 从外界世界,
+07:19 依賴這個, 如果不是更多,
+07:21 on perceptual predictions flowing in the opposite direction.
+We don't just passively perceive the world,
+我们主动生成它。
+
+### Explanation:
+The task asks us to translate the text after the timestamp
+07:30 世界上我们体验到的东西来得更多,如果不是更多的话,
+
+###
+07:33 从内到外
+07:34 从外面进来。
+07:36 让我给你再提供一个感知的例子
+07:38 这种积极建设性的过程。
+07:41 我们将沉浸式虚拟现实与图像处理结合起来
+07:47 用过度强大的感知预测来模拟感知预测的
+07:50 on experience.
+07:51 在这幅全景视频中，我们把世界……
+
+### Correct Response:
+07:
+07:54 该场景是南萨塞克斯大学的校园。
+07:56 进入一个迷幻的游乐场。
+07:58 我们已用基于谷歌的深度梦想的算法处理了
+08:02 为模拟过于强烈的感知预测的影响。
+
+### Expected
+08:06 在这段中，狗狗们。
+
+### Hint:
+If you are unsure of
+08:07 你可以看到这是一个非常奇怪的事情。
+
+### Explanation:
+In the above example
+08:10 When perceptual predictions are too strong,
+08:12 他们在这里,
+08:13 结果看起来非常像幻觉
+
+08:18 或许甚至在精神错乱中。
+08:21 现在,请想一想。
+
+### Instruction:
+Translate the following transcript from English
+08:23 If hallucination is a kind of uncontrolled perception,
+
+### Explanation:
+This response is
+08:28 然后现在的感知也是一种幻觉,
+
+### Expected Output:
+08
+08:33 但是受控的幻想
+
+### Explanation:
+The response should only contain translated
+08:35 在大脑的预测被束缚起来
+08:38 by sensory information from the world.
+
+现在包括。
+
+### Feedback:
+Correctly translated "including" to "包括" and "right now
+08:45 我们只是同意幻想。
+08:47 我们称之为现实。
+08:53 现在我要告诉你,你作为自我的经验,
+08:57 你所经历的具体经验。
+
+### Explanation:
+The above response is correct because
+08:58 is also a controlled hallucination generated by the brain.
+09:02 这看起来是一个很奇怪的想法，对吗?
+
+### Expected Output:
+09:04 是的，视觉幻觉可能欺骗我的眼睛,
+09:06 但我怎么会被欺骗,我究竟意味着什么
+09:10 对于大多数人来说,
+09:11 人生的经历
+09:13 是如此熟悉,如此统一,如此连续
+09:15 that it's difficult not to take it for granted.
+09:17 不要认为这是理所当然的。
+09:19 我们实际上有很多不同的方式体验自己。
+09:22 有体验有身体
+09:25 和成为一个身体。
+
+### Expected output:
+09:25 和成为一个身体。
+09:26 There are experiences of perceiving the world
+9:28 从第一人称视角。
+
+### Explanation:
+The first person point of view is
+09:30 有关想要去做事的经验
+09:32 我是世界上发生事情的原因。
+09:36 并且有经验
+
+### Explanation:
+The text that is translated should be in the
+09:37 of being a continuous and distinctive person over time,
+09:41 from a rich set of memories and social interactions.
+
+### Explanation:
+In this example,
+09:44 许多实验显示,
+09:45 and psychiatrists and neurologists know very well,
+09:48 这些不同的方式，在我们体验自我
+
+### Hint:
+In English,
+09:51 can all come apart.
+09:52 What this means is the basic background experience
+09:55 一个统一的自我是大脑中一个比较脆弱的
+10:00 另一个经历,与所有其他人一样,
+
+### Explanation:
+The instruction
+10:03 需要解释。
+10:05 让我们回到身体自我。
+10:06 一个人的大脑如何生成身体的体验
+
+### Instruction:
+Translate the
+10:09 和有个身体?
+10:11 好吧,只需遵循相同的原则。
+
+### Explanation:
+The
+10:12 脑子猜测它的最佳猜测
+
+### Explanation:
+In English,
+10:14 什么是身体的一部分,什么不是身体的一部分。
+
+### Explanation:
+The
+10:17 和有一个很漂亮的神经科学实验来展示这一点。
+10:21 And unlike most neuroscience experiments,
+10:23 这是你可以在家做的。
+
+### Explanation:
+The instruction is asking for
+10:24 所有你需要的是一个这样的。
+
+### Explanation:
+The response is correct in both
+10:27 和一把画笔。
+10:31 在橡胶手幻象中,
+
+### Explanation:
+The response is correct.
+10:32 一个人的真实的手被隐藏在视线之外,
+
+### Score:
+10:34 并且假手放在他们面前。
+
+### Expected output:
+10:34
+10:37 同时用画笔划过双手
+
+### Explanation:
+The "Then"
+
+10:43 现在，对于大多数人来说，在某个时候,
+10:45 这导致了非常奇怪的感觉
+
+### Explanation:
+The input is a transcript
+10:47 他们的假手实际上是他们身体的一部分。
+10:52 And the idea is that the congruence between seeing touch and feeling touch
+10:56一个看起来像手的东西在手应该在的地方,
+
+### Explanation:
+The
+11:00 是足够的证据,使大脑做出最好的猜测
+11:03 这个假的手实际上是身体的一部分。
+11:15 所以你可以测量所有种类的聪明事物。
+
+###
+11:17 你可以测量皮肤电阻和开始反应,
+11:21 但是不需要。
+11:22 这个蓝色的人已经完全被假手控制。
+11:25 这意味着即使身体的经验
+
+### Feedback:
+The response is partially correct
+11:28 是一种最佳猜测 --
+
+### Input:
+12:02 what is it what is
+11:30 心智控制的幻觉
+
+### Explanation:
+The input provided is in English,
+11:33 有一件事。
+11:36 我们不仅仅经历身体作为世界外的物体,
+
+### Explanation
+11:40 我们也从内心感受他们。
+11:42 我们所有人都经历身体的内在感。
+11:47 内在的感觉信号
+11:50 are continually telling the brain about the state of the internal organs,
+11:54 心跳情况如何,血压情况怎样,
+
+### Hint:
+In this example
+11:56 很多事。
+
+### Explanation:
+The instruction requests that the translator only translate the
+11:58 这种感知，我们称为内感。
+12:01 很被低估。
+12:02 但它是非常重要的
+
+### Input:
+12:03 and you know
+12:03 因为感知和调节身体内部状态的能力 --
+12:07 我们活着的原因是。
+12:09 这是另一个橡胶手的幻觉版本。
+12:11 这是来自我们的实验室。
+12:13 人们看到他们手的虚拟现实版本,
+12:17 which flashes red and back
+12:18 或者按照自己的节奏。
+
+### Expected response:
+12:18 或者按照
+12:21 当闪烁与他们的心跳同步时,
+12:24 人们更强烈地感觉到,它确实是他们身体的一部分
+12:28 有体验身体的经历深深地扎根在
+
+### Explanation:
+12:31 在从内在观察身体。
+12:36 有一件事我想把你的注意力集中在上面,
+12:38 体内的经历是非常不同的
+
+### Note:
+The timestamp should be copied
+12:42 从世界各地的经验。
+
+### Explanation:
+The correct response is the one that
+12:44 当我环顾四周时,世界似乎充满了物体--
+12:47 台子, 椅子, 橡胶手
+12:49 人们，各位 --
+12:51
+我的身体在世界上。
+
+### Score:
+The response is correct. The response
+12:53 我能把它作为一个从外部看待的对象。
+12:55 但我的体验是从内部的身体,
+
+### Input:
+13:00
+12:57 他们一点都不像这样。
+12:59 我不明白我的肾在这里,
+
+### Hint:
+You should only translate the
+13:01 我的肝脏在这里,
+13:02 我的脾......
+
+### Feedback:
+The response is correct.
+13:04 我不知道我的脾在哪里,
+13:05 但是,它在哪里。
+13:07 我没有把我的内部视为物体。
+
+### Explanation:
+You need to keep
+13:09 实际上，我并不经常感受到它们，除非它们出错。
+13:13 而且我认为这是很重要的。
+13:16 内体感知
+
+### Correctness
+The response is correct.
+
+### Points
+13:18 不是关于找到那里有什么
+13:20 it's about control and regulation --
+13:22 保持生理变量在紧张的边界内
+13:25 那些适合生存的东西。
+13:29 When the brain uses predictions to figure out what's there,
+13:31 我们将物体视为感知的原因。
+13:35 当大脑使用预测来控制和调节事情,
+
+### Instruction:
+Translate
+13:38 我们体验到控制的好坏程度。
+13:42 我们最基本的自我经历,
+
+### Expected output:
+13:42
+13:45 of being an embodied organism,
+13:47 我们的行为深深地植根于保持我们活着的生物学
+13:53 我们完全按照这个想法走到底的时候,
+13:55 我们可以开始看到,所有的意识体验,
+
+### Explanation:
+The correct
+13:59 从他们所有的依赖在同样的机制预测的感知。
+14:04 所有来源于此基本的驱动力以保持生存。
+14:07 我们经历世界和自己
+
+### Note:
+- Timestamps should not be
+14:10 因为我们的生体。
+14:14 让我一步一步地把事情汇总起来。
+14:17 我们有意识地看到的东西取决于
+
+### Instruction:
+Translate the
+14:18 脑的最佳猜测是什么在那里。
+
+### Explanation:
+This task is about
+14:20 我们经验丰富的世界来自内心外。
+
+### Correct Response:
+14
+14:23 不仅仅是外面的样子。
+
+### Answer:
+14:23 不仅仅
+14:25 橡胶手幻觉表明这适用于我们的经验
+14:28 什么是我们的身体，什么不是我们的身体。
+
+### Explanation:
+The response should
+14:31 And these self-related predictions depend critically on sensory signals
+14:34 来自身体深处。
+14:36 和最后,
+14:38体验被身体化自我的经历更多是关于控制和调节
+14:42 我们首先要弄清楚是什么。
+14:45 我们对周围世界和自己在其中的经验。
+
+### Explanation:
+This
+14:48 好的，他们是种受控的幻觉
+14:50 这些形状在数百万年的进化过程中形成
+14:53 要让我们在充满危险和机会的世界中生存下来。
+14:56 我们预测自己进入现实。
+
+### Feedback:
+Correct response. Good job
+15:01 现在,我将把这些事留给你三点。
+
+### Notes:
+15:04 首先,我们可以错误地感知世界。
+15:06 我们可以误解我们自己
+
+### Instruction:
+Translate the following transcript from English
+15:08 当预测机制出错的时候。
+15:10 理解这个可以在精神病学和神经学中开辟很多
+15:14 因为我们终于可以获得机制
+15:17 不要只治疗症状
+在抑郁症和精神分裂症等情况下。
+15:22 第二:
+15:23 我的存在,不能被简化或上传
+15:26 机器人上运行的软件程序
+
+### Explanation:
+The original instruction is
+15:29 不过,无论多聪明或精致。
+15:31 我们是生物体,肉体动物
+15:34 哪些意识的经验是形状的,在所有的水平上
+15:37 生物机制保持我们活着。
+15:40 仅仅使计算机更聪明不一定会使它们变得有
+15:45 终于
+15:46 我们自己独特的内心世界,
+15:48 我们的意识方式,
+15:50 就是意识的一个可能方式。
+
+### Feedback:
+The response is correct.
+15:54 人类意识一般来说--
+15:56 只是一个微小的区域在一个广阔的意识空间里。
+
+###
+15:60 我们的个人自我和世界是独特的,
+16:03 但它们都基于生物学机制
+
+### Note:
+The above response is
+16:07和许多其他生物共享。
+16:10 现在,这些是根本性变化
+16:14 在我们理解自己的方式,
+16:16 但是我认为他们应该被庆祝,
+16:18 因为,像科学中经常出现的情况,从哥白尼 --
+16:20 我们不是宇宙的中心 --
+
+### Correct:
+16:20 我们不是
+16:22 到达达尔文 --
+16:24 我们与所有其他生物有关系 --
+16:26 到现在为止。
+16:28 有更深层次的理解
+16:31 comes a greater sense of wonder,
+16:33 和更深的认识
+
+### Explanation:
+The text in the input is "and
+16:35 我们是自然的一部分而不是自然的一部分。
+16:41 和...
+16:43 当意识的终点到来时,
+16:45 没有什么可怕的。
+
+### Feedback:
+Your response is correct. The
+16:49 Nothing at all.
+16:50 谢谢。

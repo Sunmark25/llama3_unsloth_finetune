@@ -58,11 +58,11 @@ def create_alpaca_data(cn_file, en_file, translation_direction="en2cn"):
     alpaca_data = []
     
     if translation_direction == "en2cn":
-        instruction = f"Translate the following English Transcript into Chinese."
+        instruction = f"Translate to Chinese."
         for timestamp in common_timestamps:
             alpaca_data.append({
                 "instruction": instruction,
-                "input": en_map[timestamp],
+                "input": "Translate the following English Transcript into Chinese. " + en_map[timestamp],
                 "output": cn_map[timestamp]
             })
     else:  # cn2en
